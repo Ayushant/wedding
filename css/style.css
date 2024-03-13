@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  .img1{
+    /* height: 200px; */
+    background-image: url(../img/pexels-asad-photo-maldives-169211.jpg);
+    /* image-resolution: 200; */
+  }
+
+  .para{
+    margin-top: 20px;
+  }
